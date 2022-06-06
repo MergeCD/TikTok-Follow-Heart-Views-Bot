@@ -101,7 +101,7 @@ def loop4():
         sleep(wait_time)
         loop4()
 
-vidUrl = "https://vm.tiktok.com/ZMNdnbDSQ/?k=1" #Change with one of your tiktok videos
+vidUrl = "https://www.tiktok.com/@reddit_story69/video/7106107605235420421?is_copy_url=1&is_from_webapp=v1" #Change with one of your tiktok videos
 
 system("clear") #If you have Windows you can use cls
 tiktokbot = pyfiglet.figlet_format("NoNameoN", font="slant")
